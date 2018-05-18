@@ -67,6 +67,6 @@ int ej1min(int dist, int distArq, float altArco, int altArq, float ang){
 }
 
 int main() {
-	ej1min(50, 4, 2.44, 2.00, 18);
+	ej1min(50, 4, 2.44, 2, 18);
 	return 0;
 }
